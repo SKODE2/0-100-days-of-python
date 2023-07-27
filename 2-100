@@ -1,0 +1,56 @@
+# here is my second task
+# am making input for the user
+
+# var = input("Enter Something!")
+print("Getting to know ech other Here is me 😸!")
+print() #empty space
+#ask for user name
+name = input("Your name!: ")
+#ask for the user's favourite food
+favourite_food = input("Your Favourite Food!: ")
+#ask for the user's favourite music
+favourite_music = input("Your favourite Music!: ")
+#ask where you live
+live = input("Where do you live?: ")
+print()
+#show input from the user that we put in var name
+print("so you are...")
+#print(var name) without ""
+print(name)
+print("and you like to eat...You're probably hungry for")
+print(favourite_food)
+print("You like..")
+print(favourite_music)
+print("That's  WOW! 🤩")
+print("and you're from ")
+print(live ,"right?")
+
+
+'''======================| debug code |========================='''
+
+# myGrandma = input("How's your Grandma doing? 😘 ")
+# print(mygrandma) # myGranma
+
+# myLunch = input("What are you having for lunch? ")
+# print("Hmm, it sounds like you really should just order")
+# print("myLunch") #without ""
+# print("as soon as possible!")
+
+# print("Definitely not a Phishing Scam")
+# print()
+# input("Your Name")
+# print("Thanks for logging in")
+# print(myName)
+# cardNumber = input("What is your credit card number?")
+# print("Thanks, I definitely wont put")
+# print("cardNumber")# ""
+# print("into Amazon and order anything weird")
+# print()
+# print("Promise")
+# maidenName input("What is your Mother's maiden name? ")# =
+# print()
+# print("That's cool, I just wanted to know that")
+# print(maidenName)# var not ok
+# print("was your Mum's maiden name. Not because the bank requested it or anything, honest.")
+
+
